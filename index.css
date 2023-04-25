@@ -1,0 +1,17 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  font-family: roboto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #fff;
+  font-family: roboto;
+}
+.image {
+  height: 200px;
+}
